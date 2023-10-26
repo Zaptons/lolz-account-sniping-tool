@@ -25,5 +25,5 @@ Before using this tool, make sure you have the following dependencies installed:
 1. Clone this repository:
 
    ```shell
-   git clone https://github.com/Zaptons/account-sniping-tool.git
+   git clone https://github.com/Zaptons/lolz-account-sniping-tool.git
    cd account-sniping-tool
